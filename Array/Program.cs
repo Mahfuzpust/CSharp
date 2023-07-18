@@ -9,3 +9,20 @@ value[0] = 1;
 value[1] = 2;
 value[2] = 3;
 Console.WriteLine(value[2]);
+
+
+int[,] multi = new int[3,3];
+
+
+
+int[,] numbers = { { 1, 4, 2 }, { 3, 6, 8  } };
+Console.WriteLine(numbers[0, 0]);
+Console.WriteLine(numbers[0, 2]);
+
+
+String[] cars = { "Volvo", "BMW", "Mazda" };
+Array.Sort(cars);
+foreach(string i in cars)
+{
+    Console.WriteLine($"{i}");
+}
