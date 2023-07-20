@@ -20,7 +20,7 @@ Console.WriteLine(numbers[0, 0]);
 Console.WriteLine(numbers[0, 2]);
 
 
-String[] cars = { "Volvo", "BMW", "Mazda" };
+string[] cars = { "Volvo", "BMW", "Mazda" };
 Array.Sort(cars);
 foreach(string i in cars)
 {
