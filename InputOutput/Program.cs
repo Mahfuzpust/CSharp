@@ -15,4 +15,7 @@ Console.WriteLine("Enter Double value:");
 double value3 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine($"The double value is: {value3}");
 
+int a = (int)4.5;
+Console.WriteLine(a);
+
 
