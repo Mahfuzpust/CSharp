@@ -45,4 +45,14 @@ string vv = v1 < v2 ? "yes" : "no";
 Console.WriteLine(vv);
 
 
+int[] ages = {1,5,2,6,4};
 
+for(int i = 0; i < ages.Length; i++)
+{
+    Console.WriteLine(ages[i]);
+}
+
+foreach(int age in ages)
+{
+    Console.WriteLine(age);    
+}
