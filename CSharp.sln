@@ -26,6 +26,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List_ArrayList", "List_Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{F7C0D0F9-26AE-4CC1-955E-B6FBFC9A1D24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static", "Static\Static.csproj", "{F2E13EC4-3AB6-471B-8C60-68115C09BBA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -68,6 +70,10 @@ Global
 		{F7C0D0F9-26AE-4CC1-955E-B6FBFC9A1D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7C0D0F9-26AE-4CC1-955E-B6FBFC9A1D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7C0D0F9-26AE-4CC1-955E-B6FBFC9A1D24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2E13EC4-3AB6-471B-8C60-68115C09BBA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E13EC4-3AB6-471B-8C60-68115C09BBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E13EC4-3AB6-471B-8C60-68115C09BBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E13EC4-3AB6-471B-8C60-68115C09BBA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
