@@ -1,4 +1,6 @@
-﻿class WaterBottle
+﻿
+namespace Mahfuz.CSharp;
+class WaterBottle
 {
     private double _capacity;
     //private string _color;
