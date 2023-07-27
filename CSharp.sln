@@ -22,7 +22,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassExample1", "ClassExamp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method", "Method\Method.csproj", "{AE6C02DB-5004-4042-832D-52EC88E78433}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_ArrayList", "List_ArrayList\List_ArrayList.csproj", "{CA2E503E-9DD6-4574-A89C-43932549A365}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List_ArrayList", "List_ArrayList\List_ArrayList.csproj", "{CA2E503E-9DD6-4574-A89C-43932549A365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{F7C0D0F9-26AE-4CC1-955E-B6FBFC9A1D24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,6 +64,10 @@ Global
 		{CA2E503E-9DD6-4574-A89C-43932549A365}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA2E503E-9DD6-4574-A89C-43932549A365}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA2E503E-9DD6-4574-A89C-43932549A365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C0D0F9-26AE-4CC1-955E-B6FBFC9A1D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C0D0F9-26AE-4CC1-955E-B6FBFC9A1D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C0D0F9-26AE-4CC1-955E-B6FBFC9A1D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C0D0F9-26AE-4CC1-955E-B6FBFC9A1D24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
