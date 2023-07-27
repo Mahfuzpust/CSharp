@@ -3,6 +3,7 @@
     private double _capacity;
     //private string _color;
     public double waterAmount;
+    private List<string> _icons = new List<string>();
 
     public double Capacity
     {
@@ -15,7 +16,13 @@
             _capacity = value;
         }
     }
-    
+
+    ~WaterBottle()
+    {
+        _icons.Clear();
+        _icons = null;
+
+    }
 
     public string Color { get; set; }
     
