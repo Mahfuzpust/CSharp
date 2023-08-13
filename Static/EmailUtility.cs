@@ -13,16 +13,16 @@ namespace Static
 
         //static used before Property
         public static double Length { get; set; }
-        //static used before Coonstructor
+        //static used before Constructor
         static EmailUtility()
         {
-
+            count = 0;
         }
         //static used before Method
         public static void SendEmail(string name, string email,
             string subject, string body)
         {
-
+            count++;
         }
 
         
