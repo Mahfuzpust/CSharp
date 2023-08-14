@@ -14,6 +14,7 @@ namespace Static
         //static used before Property
         public static double Length { get; set; }
         //static used before Constructor
+
         static EmailUtility()
         {
             count = 0;
