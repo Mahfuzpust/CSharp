@@ -8,7 +8,7 @@ namespace Static
 {
     public static class EmailUtility
     {
-        //static used before variable
+        //static used before in variable
         public static int count;
 
         //static used before Property
